@@ -31,7 +31,7 @@ Apesar de ter originalmente me formado como advogado, resolvi me dedicar integra
 </table>
 
 ## :trophy: Certificações 
-<li> Certificado pela freeCodeCamp em <a ref="https://freecodecamp.org/certification/VictorGlhrm/javascript-algorithms-and-data-structures">Javascript Algoritms and Data Structures </a>
+<li> Certificado pela freeCodeCamp em <a href="https://freecodecamp.org/certification/VictorGlhrm/javascript-algorithms-and-data-structures">Javascript Algoritms and Data Structures </a>
 
 ##  :chart_with_upwards_trend: Estatísticas
 
