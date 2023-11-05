@@ -39,21 +39,3 @@ Apesar de ter originalmente me formado como advogado, resolvi me dedicar integra
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGuilhermeC&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-<!--No community, tem um exemplo de como criar o profile Readme. 
-Util -> tem os badges e o markdown para usar.
-Usar referências de markdown para editar o arquivo.-->
-
-
-  
-
-<!-- TO DO 
-
-- Terminar o ReadMe. Commitar, enviar um Pull Request
-- Issue: Adicionar os links no ReadMe
-- Issue: Adicionar o botão FreeCodeCamp e do Codewars no repositório da Dio
-e
--->
